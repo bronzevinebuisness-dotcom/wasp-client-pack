@@ -16,7 +16,7 @@ glintStrength:0.75
 preferredGraphicsBackend:"default"
 graphicsPreset:"custom"
 prioritizeChunkUpdates:1
-fullscreen:false
+fullscreen:true
 exclusiveFullscreen:true
 gamma:0.5
 guiScale:0
@@ -64,7 +64,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["punchy:punchy"]
+resourcePacks:["vanilla","punchy:punchy","file/FreshAnimations_v1.10.5.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -248,10 +248,13 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.zoom.secondary:key.keyboard.f6
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.i
 key_iris.keybind.wireframe:key.keyboard.unknown
+key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
@@ -260,7 +263,7 @@ soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_ambient:0.05211267605633787
 soundCategory_voice:1.0
 soundCategory_ui:1.0
 modelPart_cape:true

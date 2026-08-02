@@ -185,8 +185,28 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "9bc3807d34ba58c5fab2d5ebf1d795c1212b0706dabcdda16a7a3684c8973c1e"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "82c561313a11160ae868d5050601a68a24c59b6c0dcde232664c224cf9d90134"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "6e746361934be98d7b3856f85d4984a611611dbacbecbcefc14fe12b97c81339"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "7ef52ee07bd8eaaebe8ba3af73fee0b6eed30884e92282eed582c2cce7aee8d7"
 metafile = true
 
 [[files]]
@@ -230,6 +250,11 @@ hash = "470adaaaf24485e95f17a97c6e95afa583f0f62ca59dc895b03f454873196815"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a6d53d9a312a3cb6554453eb73ecd152278f7be8d12e9a8db6126b0cef1d2b68"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "0d21cfc05d3eaee705f131e9f8f8a742bb8928916cce378f2e7e7c9e8be7962d"
 metafile = true
@@ -266,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ac9f1ff116b0ccaa92d3cef764d694d567cecd8968fc3b5b4a30859c7201b983"
+hash = "837e9efa40218d9d8aaddd8127d66321745cf069c734a5efb9955ba0edd7dde5"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
